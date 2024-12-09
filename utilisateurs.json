@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "first_name": "Alice",
+      "last_name": "Dupont",
+      "email": "alice.dupont@example.com",
+      "date_of_birth": "1990-04-15",
+      "phone": "+33 6 12 34 56 78"
+    },
+    {
+      "id": 2,
+      "first_name": "Bob",
+      "last_name": "Martin",
+      "email": "bob.martin@example.com",
+      "date_of_birth": "1985-11-02",
+      "phone": "+33 6 87 65 43 21"
+    },
+    {
+      "id": 3,
+      "first_name": "Charlie",
+      "last_name": "Leclerc",
+      "email": "charlie.leclerc@example.com",
+      "date_of_birth": "1995-07-09",
+      "phone": "+33 6 78 90 12 34"
+    }
+  ]
+  

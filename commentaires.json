@@ -1,0 +1,21 @@
+[
+    {
+      "comment_id": 1,
+      "user_id": 1,
+      "content": "This laptop is amazing! Totally worth the price.",
+      "created_at": "2024-12-08T10:15:30Z"
+    },
+    {
+      "comment_id": 2,
+      "user_id": 2,
+      "content": "The smartphone is great, but the battery life could be better.",
+      "created_at": "2024-12-07T18:45:00Z"
+    },
+    {
+      "comment_id": 3,
+      "user_id": 3,
+      "content": "Loved the design of the keyboard. Very ergonomic!",
+      "created_at": "2024-12-06T09:30:15Z"
+    }
+  ]
+  

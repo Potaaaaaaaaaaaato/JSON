@@ -1,0 +1,32 @@
+[
+    {
+      "order_id": "ORD-123456",
+      "user_id": 1,
+      "order_date": "2024-12-08",
+      "items": [
+        {"product": "Laptop", "quantity": 1, "price": 1200.99},
+        {"product": "Mouse", "quantity": 1, "price": 25.50}
+      ],
+      "total": 1226.49
+    },
+    {
+      "order_id": "ORD-789101",
+      "user_id": 2,
+      "order_date": "2024-12-07",
+      "items": [
+        {"product": "Smartphone", "quantity": 1, "price": 799.99},
+        {"product": "Headphones", "quantity": 1, "price": 150.00}
+      ],
+      "total": 949.99
+    },
+    {
+      "order_id": "ORD-112131",
+      "user_id": 3,
+      "order_date": "2024-12-06",
+      "items": [
+        {"product": "Keyboard", "quantity": 1, "price": 89.99}
+      ],
+      "total": 89.99
+    }
+  ]
+  
